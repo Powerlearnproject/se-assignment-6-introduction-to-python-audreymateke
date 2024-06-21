@@ -56,22 +56,28 @@ Sources:
     Verify Installation:
 
       - Open a Command Prompt or PowerShell window.
-      - Type python --version and press Enter.
+      - Type `python --version` and press Enter.
       - You should see the installed Python version (e.g., “Python 3.12.4”).
       - 
    Set Up a Virtual Environment :
 
       - Install the virtualenv package (if not already installed):
-        pip install virtualenv
+         
+        `pip install virtualenv` 
+       
 
-      - Create a new virtual environment:
-      - python -m venv myenv
+        Create a new virtual environment:
+        
+      - `python -m venv myenv`
 
    Activate the virtual environment:
 
-    - Command Prompt: 'myenv\Scripts\activate'
+    - Command Prompt: `myenv\Scripts\activate`
+   Source:
 
-
+    - <a href="https://www.python.org/downloads/windows/">install python </a>
+    - <a href="https://kinsta.com/knowledgebase/install-python/">python</a>
+   
 4. Python Syntax and Semantics:
    - Write a simple Python program that prints "Hello, World!" to the console. Explain the basic syntax elements used in the program.
 
