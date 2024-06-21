@@ -73,6 +73,7 @@ Sources:
    Activate the virtual environment:
 
     - Command Prompt: `myenv\Scripts\activate`
+      
    Source:
 
     - <a href="https://www.python.org/downloads/windows/">install python </a>
@@ -80,6 +81,16 @@ Sources:
    
 4. Python Syntax and Semantics:
    - Write a simple Python program that prints "Hello, World!" to the console. Explain the basic syntax elements used in the program.
+
+     Answers:
+
+      # This program prints Hello, world!
+       print('Hello, world!')
+     - We use the built-in print() function to display the string “Hello, world!” on the screen.
+
+     Sources:
+
+      - <a href="https://www.programiz.com/python-programming/examples/hello-world">python syntax</a>
 
 5. Data Types and Variables:
    - List and describe the basic data types in Python. Write a short script that demonstrates how to create and use variables of different data types.
