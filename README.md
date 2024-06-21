@@ -84,7 +84,7 @@ Sources:
 
      Answers:
 
-      # This program prints Hello, world!
+       This program prints Hello, world!
        print('Hello, world!')
      - We use the built-in print() function to display the string “Hello, world!” on the screen.
 
