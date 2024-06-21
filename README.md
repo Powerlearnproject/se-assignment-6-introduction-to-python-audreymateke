@@ -32,13 +32,53 @@ Sources:
 2. Installing Python:
    - Describe the steps to install Python on your operating system (Windows, macOS, or Linux). Include how to verify the installation and set up a virtual environment.
 
-3. Python Syntax and Semantics:
+   Answer:
+
+    - Here are the steps to install Python on Windows:
+
+     Download Python:
+   
+      - Visit the Python Releases for Windows page.
+      - Choose the latest version (e.g., Python 3.12.4) compatible with your system architecture (64-bit or ARM64).
+      - Download the Windows installer.
+        
+     Run the Installer:
+   
+      - Double-click the downloaded installer.
+      - Check the box to add Python to PATH during installation (recommended).
+      - Click “Install Now.”
+        
+    Customize Installation (Optional):
+
+      - You can customize the installation by selecting additional features or adjusting settings.
+      - For most users, the default options are sufficient.
+        
+    Verify Installation:
+
+      - Open a Command Prompt or PowerShell window.
+      - Type python --version and press Enter.
+      - You should see the installed Python version (e.g., “Python 3.12.4”).
+      - 
+   Set Up a Virtual Environment :
+
+      - Install the virtualenv package (if not already installed):
+        pip install virtualenv
+
+      - Create a new virtual environment:
+      - python -m venv myenv
+
+   Activate the virtual environment:
+
+    - Command Prompt: 'myenv\Scripts\activate'
+
+
+4. Python Syntax and Semantics:
    - Write a simple Python program that prints "Hello, World!" to the console. Explain the basic syntax elements used in the program.
 
-4. Data Types and Variables:
+5. Data Types and Variables:
    - List and describe the basic data types in Python. Write a short script that demonstrates how to create and use variables of different data types.
 
-5. Control Structures:
+6. Control Structures:
    - Explain the use of conditional statements and loops in Python. Provide examples of an `if-else` statement and a `for` loop.
 
  Answers:
