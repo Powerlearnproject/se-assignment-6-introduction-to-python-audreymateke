@@ -25,6 +25,8 @@ Answer:
    - Extensive Libraries and Frameworks: Access to a wide range of libraries like NumPy, Pandas, Matplotlib, Django, Flask, etc.
      
    - Community Support: Large and active community
+Sources:
+
 <a href="https://docs.google.com/presentation/d/1AILPQwnGFt387QS6LgqPxR7DpngEx9GJ/edit#slide=id.p3">python features</a>
 
 2. Installing Python:
