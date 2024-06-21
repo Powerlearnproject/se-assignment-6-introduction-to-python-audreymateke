@@ -10,6 +10,23 @@ Answer the following questions based on your understanding of Python programming
 1. Python Basics:
    - What is Python, and what are some of its key features that make it popular among developers? Provide examples of use cases where Python is particularly effective.
 
+Answer:
+
+   - Python is a high-level, interpreted programming language
+     
+ Python key features:
+ 
+   - Easy to Learn and Use: Simple syntax that mimics natural language.
+     
+   - Interpreted Language: Executes code line by line, which makes debugging easier.
+     
+   - Versatile and Powerful: Supports various programming paradigms (procedural, object-oriented, functional).
+     
+   - Extensive Libraries and Frameworks: Access to a wide range of libraries like NumPy, Pandas, Matplotlib, Django, Flask, etc.
+     
+   - Community Support: Large and active community
+<a href="https://docs.google.com/presentation/d/1AILPQwnGFt387QS6LgqPxR7DpngEx9GJ/edit#slide=id.p3">python features</a>
+
 2. Installing Python:
    - Describe the steps to install Python on your operating system (Windows, macOS, or Linux). Include how to verify the installation and set up a virtual environment.
 
@@ -21,6 +38,8 @@ Answer the following questions based on your understanding of Python programming
 
 5. Control Structures:
    - Explain the use of conditional statements and loops in Python. Provide examples of an `if-else` statement and a `for` loop.
+
+ Answers:
 
 6. Functions in Python:
    - What are functions in Python, and why are they useful? Write a Python function that takes two arguments and returns their sum. Include an example of how to call this function.
