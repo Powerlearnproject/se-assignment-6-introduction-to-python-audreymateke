@@ -95,6 +95,44 @@ Sources:
 5. Data Types and Variables:
    - List and describe the basic data types in Python. Write a short script that demonstrates how to create and use variables of different data types.
 
+Answers:
+
+   - Text Type (str): Represents textual data, such as words or sentences.
+     
+Numeric Types:
+
+   - int: Used for whole numbers (e.g., 5, -10).
+     - float: Represents decimal numbers (e.g., 3.14, -0.5).
+     - complex: Handles complex numbers (e.g., 2 + 3j).
+       
+Sequence Types:
+
+   - list: An ordered collection of items (e.g., `[1, 2, 3]`).
+   - tuple: Similar to a list but immutable (e.g., `(1, 2, 3)`).
+   - range: Represents a sequence of numbers (e.g.,` range(5)`).
+     
+Mapping Type:
+
+ - dict: Stores key-value pairs (e.g., {`name: "John", "age": 30 `}).
+
+examples :
+
+  - Example script
+`text_variable = "Hello, world!"
+integer_variable = 42
+float_variable = 3.14
+boolean_variable = True
+list_variable = [1, 2, 3]
+dictionary_variable = {"name": "Alice", "age": 25}
+
+print(text_variable)
+print(integer_variable)
+print(float_variable)
+print(boolean_variable)
+print(list_variable)
+print(dictionary_variable)`
+
+
 6. Control Structures:
    - Explain the use of conditional statements and loops in Python. Provide examples of an `if-else` statement and a `for` loop.
 
