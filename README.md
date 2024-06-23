@@ -119,21 +119,24 @@ examples :
 
   - Example script
 - `text_variable = "Hello, world!"`
+   `print(text_variable)`
+  
 - `integer_variable = 42`
+- `print(integer_variable)`
+  
 - `float_variable = 3.14`
+- `print(float_variable)`
+  
 - `boolean_variable = True`
+- `print(boolean_variable)`
+  
 - `list_variable = [1, 2, 3]`
+-  `print(list_variable)`
+  
 -` dictionary_variable = {"name": "Alice", "age": 25}`
+-  `print(dictionary_variable)`
 
- - `print(text_variable)`
- - `print(integer_variable)`
- - `print(float_variable)`
- - `print(boolean_variable)`
-- `print(list_variable)`
-- `print(dictionary_variable)`
-
-
-6. Control Structures:
+5. Control Structures:
    - Explain the use of conditional statements and loops in Python. Provide examples of an `if-else` statement and a `for` loop.
 
  Answers:
@@ -152,6 +155,28 @@ examples :
 
 10. File I/O:
     - How do you read from and write to files in Python? Write a script that reads the content of a file and prints it to the console, and another script that writes a list of strings to a file.
+
+Answers:
+
+  1. Open the File: Use the `open()` function to open the file. Specify the file name and the mode (e.g., "r" for read mode).
+  -  For example:
+        - `with open("myfile.txt", "r") as f:
+    data = f.read()`
+  2. Read the Content: The `read() `method reads the entire content of the file into a string (data in the example above).
+  Close the File: The `with` statement automatically closes the file when you’re done.
+
+  - Here’s a simple example:
+
+    -   `with open("myfile.txt", "r") as f:
+    data = f.read()
+    print(data)`
+  3. Writing to a File
+  To write data to a file, follow these steps:
+
+   - Open the File: Use the open() function with write mode ("w") to open the file.
+      - For example:
+
+     
 
 # Submission Guidelines:
 - Your answers should be well-structured, concise, and to the point.
