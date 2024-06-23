@@ -118,19 +118,19 @@ Mapping Type:
 examples :
 
   - Example script
-`text_variable = "Hello, world!"
-integer_variable = 42
-float_variable = 3.14
-boolean_variable = True
-list_variable = [1, 2, 3]
-dictionary_variable = {"name": "Alice", "age": 25}
+- `text_variable = "Hello, world!"`
+- `integer_variable = 42`
+- `float_variable = 3.14`
+- `boolean_variable = True`
+- `list_variable = [1, 2, 3]`
+-` dictionary_variable = {"name": "Alice", "age": 25}`
 
-print(text_variable)
-print(integer_variable)
-print(float_variable)
-print(boolean_variable)
-print(list_variable)
-print(dictionary_variable)`
+ - `print(text_variable)`
+ - `print(integer_variable)`
+ - `print(float_variable)`
+ - `print(boolean_variable)`
+- `print(list_variable)`
+- `print(dictionary_variable)`
 
 
 6. Control Structures:
