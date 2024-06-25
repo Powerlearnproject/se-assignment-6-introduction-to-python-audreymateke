@@ -144,10 +144,12 @@ examples :
   Example of if else :
   
     `  x = 3 `
-  ` if x == 4: `
-  `  print("Yes") `
-   `else: `
+    ` if x == 4: `
+    `  print("Yes") `
+    `else: `
     `print("No")`
+
+   output = No
   
 
 7. Functions in Python:
