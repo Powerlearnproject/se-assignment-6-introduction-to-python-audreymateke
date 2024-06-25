@@ -117,18 +117,18 @@ Mapping Type:
 
 examples :
     
-      `text_variable = "Hello, world!"`
-      `print(text_variable)`
-      `integer_variable = 42`
-      `print(integer_variable)`
-      `float_variable = 3.14`
-       `print(float_variable)`
-       `boolean_variable = True`
-       `print(boolean_variable)`
-       `list_variable = [1, 2, 3]`
-       `print(list_variable)`
-       `dictionary_variable = {"name": "Alice", "age": 25}`
-       `print(dictionary_variable)`
+      text_variable = "Hello, world!"
+      print(text_variable)
+      integer_variable = 42
+      print(integer_variable)
+      float_variable = 3.14
+       print(float_variable)
+       boolean_variable = True
+       print(boolean_variable)
+       list_variable = [1, 2, 3]
+       print(list_variable)
+       dictionary_variable = {"name": "Alice", "age": 25}
+       print(dictionary_variable)
 
 6. Control Structures:
    - Explain the use of conditional statements and loops in Python. Provide examples of an `if-else` statement and a `for` loop.
@@ -143,12 +143,12 @@ examples :
       
   Example of if else :
   
-    `  x = 3 `
-    ` if x == 4: `
-    `  print("Yes") `
-    `else: `
-    `print("No")`
-
+      x = 3 
+     if x == 4: 
+      print("Yes") 
+    else: 
+    print("No")
+    
    output = No
   
 
